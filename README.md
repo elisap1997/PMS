@@ -1,4 +1,2 @@
-# PMS
-This is for demo purpose
+# PMS project created by Elisa Pavesi
 
-Editing for class project. Hi.
